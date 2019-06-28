@@ -14,4 +14,5 @@ public class Item {
 	private String name;
 	//数量
 	private Integer number;
+	//不同的客户端改了资料
 }
